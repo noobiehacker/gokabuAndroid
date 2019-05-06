@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Gokabu</string>
+    <string name="LoginResponseKey">LOGINRESPONSEKEY</string>
+</resources>
